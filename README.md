@@ -1,0 +1,2 @@
+# sstr
+Assembler string library.
